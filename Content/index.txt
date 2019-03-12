@@ -1,0 +1,92 @@
+:index
+
+@text0 t0-The digitization of large quantities of analogue data and the massive production of born-digital documents
+for many years now provide us with large volumes of varied multimedia data (images, maps, text, video,
+multi-sensor data, etc.), an important feature of which is that they are cross-domain. "Cross-domain"
+reflects the fact that these data may have been acquired in very different conditions: different acquisition
+
+systems, times and points of view (e.g. a 1962 postcard from the Arc de Triomphe vs. a recent street-
+view acquisition by mobile mapping of the same monument).
+
+These data represent an extremely rich heritage that can be exploited in a wide variety of fields, from
+SSH to land use and territorial policies, including smart city, urban planning, tourism, creative media and
+entertainment. In terms of research in computer science, they address challenging problems related to
+the diversity and volume of the media across time, the variety of content descriptors (potentially including
+the time dimension), the veracity of the data, and the different user needs with respect to engaging with
+this rich material and the extraction of value out of the data. These challenges are reflected in research
+topics such as multimodal and mixed media search, automatic content analysis, multimedia linking and
+recommendation, and big data analysis and visualisation, where scientific bottlenecks may be
+exacerbated by the time dimension, which also provides topics of interest such as multimodal time series
+analysis.
+The objective of this workshop is to present and discuss the latest and most significant trends in the
+analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage,
+with emphasis on the unlocking of and access to the big data of the past.
+
+@text1 t1-ACMMULTIMEDIA 2019 21 - 25 October 2019, Nice, France
+@text2 t2- To be published later
+@text3 t3-Our templates are updated regularly so they don't break.
+@text4 t4-You can use this theme as is, or you can make changes!
+@text5 t5-You have to make your websites with love these days!
+@text6 t6-SUMAC 2019 The 1st workshop on Structuring and Understanding of Multimedia heritAge Contents
+@text7 t7-We update dependencies to keep things fresh.
+@text8 t8-Submission
+@text9 t9-contact@gmail.com
+@text10 t10-Scope and topics of the workshop
+@text11 t11-Toggle navigation Menu
+@text12 t12-Program
+@text13 t13-Sturdy Templates
+@text14 t14-Workshop Draft Page
+@text15 t15-Organizers
+@text16 t16-Made with Love
+@text17 t17-Submit Now
+@text18 t18-About the workshop
+@text19 t19-Ready to Ship
+
+@text20 t20-The objective of this workshop is to present and discuss the latest and most significant trends in the
+analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage,
+with the emphasis on the unlocking of and access to the big data of the past. We welcome research
+contributions related to the following (but not limited to) topics:
+@text30 t30-Category
+@text40 t40-Project Name
+@text50 t50-Category
+@text60 t60-Project Name
+@text70 t70-Category
+@text80 t80-Project Name
+@text90 t90-Category
+@text100 t100-Project Name
+@text110 t110-Category
+@text120 t120-Project Name
+@text130 t130-Category
+
+@text21 t21-Project Name
+@text22 t22-Project Name
+@text23 t23-Project Name
+@text24 t24-n/a
+@text25 t25-Valerie Gouet-Brunet (PhD’00, Habil’08), research director in the LaSTIG Lab. of IGN (the French mapping agency) since 2012. During period 2014-2017, she was the head of the MATIS research group of the LaSTIG, which is dedicated to computer vision, photogrammetry and remote sensing for terrestrial, aerial and satellite imagery. Her area of research includes content-based indexing of collections of image and video contents at large scale. She has supervised 12 PhD students, 6 postdocs and over 30 master thesis and engineer students. She has been the coordinator of several industrial contracts, participated to 18 European and national research projects, with different levels of responsibility (WP or task leader, institutional contact, principal investigator), some of them being dedicated to the promotion of geographic iconographic heritage, smart cities and land use, respectively in partnership with national museums, 
+SMEs and major French and international groups. She is actively involved in the Time Machine European community (member of the steering committee, contact for IGN); she also leads the French ANR project Alegoria, dedicated to the promotion of iconographic heritage contents describing the French territory. 
+
+@text26 t26- Sander Münster (PhD´14) is visiting professor for the Didactics of Computer Science, as well as head of the junior research group HistStadt4D as well as head of the department for Media Design and Production at the Media Center at the Technische Universität Dresden (Germany). He studied history, educational studies and business sciences at the TU Dresden, received his PhD in educational technology and currently works on his postdoc thesis in computing at the University of Regensburg. He serves as co-convenor of the workgroup for Digital Reconstruction of the German Association for Digital Humanities (www.digitale-rekonstruktion.info), is spokesman of the research network on “3D reconstruction methods for architectural history” funded by the German Research Foundation, expert member of ICOMOS/ISPRS CIPA (www.cipa.icomos.org) and head of the workgroup “Partnering with international organisations” in the Virtual Multimodal Museum EU network (www.vi-mm.eu). His research fields are mobile 3D interfaces, user behaviour research, scientometrics as well as research methodologies in fields of digital humanities and heritage. 
+ 
+@text27 t27-Roeland Ordelman is specialist information technology with a background in IT research, audiovisual archiving and industry. He is Innovation Manager at Netherlands Institute for Sound and Vision, and principal investigator Language, Speech and Multimedia at University of Twente, the Netherlands. He received his PhD in 2003 on the use of speech recognition technology to improve access to audiovisual archives and worked on a wide range of national and international projects in the area of multimedia retrieval and speech-based human computer/robot interaction. Next to more fundamental research topics such as audiovisual (hyper)linking, topics addressing aspects related to the uptake of access technology in realistic, industrial use cases have his special interest. In that context, he is has been involved in organising benchmark evaluations in the MediaEval Benchmark Evaluation Series and TRECVid. His current work focuses on scholarly research infrastructures to enable mixed media data science using large institutional data sets available at cultural heritage institutes and archives. He is technical coordinator of the CLARIAH Media Suite, one of the portals of the Dutch research infrastructure for the Humanities. 
+@text28 t28- 
+Liming Chen is a Professor in the Department of Mathematics and Computer Science, Ecole Centrale de Lyon, University of Lyon, France. He received his BSc in Mathematics and Computer Science from the University of Nantes in 1984, his MSc and PhD in computer science from the University Pierre and Marie Curie Paris 6 in 1986 and 1989 respectively. He was an associate professor at the Université de Technologie de Compiègne before he joined Ecole Centrale de Lyon as Professor in 1998. He served as the Chief Scientific Officer in the Paris-based company Avivias from 2001 to 2003, and the scientific multimedia expert in France Telecom R&D China in 2005. He was the head of the Department of Mathematics and Computer science from 2007 through 2016. His current research interests include computer vision, machine learning, image and video analysis and categorization, face analysis and recognition, and affective computing. Liming has over 250 publications and successfully supervised over 35 PhD students. He has been a grant holder for a number of research grants from EU FP program, French research funding bodies and local government departments. Liming has so far guest-edited 2 journal special issues. He is an associate editor for Eurasip Journal on Image and Video Processing and a senior IEEE member
+
+@text29 t29-Call for papers
+
+@text31 t31-Organizers
+@text32 t32-●Multimedia and cross-domain data interlinking and recommendation <br>
+● Dating and geolocalization of historical data <br>
+● Mixed media data access and indexing <br>
+● Deep learning in adverse conditions (transfer learning, learning with side information, etc.) <br>
+● Multi-modal time series analysis, evolution modelling <br>
+● Multi-modal and multi-temporal data rendering <br>
+● HCI / Interfaces for large scale data sets <br>
+● Smart digitization of massive quantities of data <br>
+● Benchmarking 
+@text33 t33-Submission Due: June 25, 2019
+@text34 t34-Acceptance Notification: July 25, 2019
+@text35 t35-Camera Ready Submission: August 15, 2019
+@text36 t36-Category
+@text37 t37-Program
+@text38 t38-About
+@text39 t39-
