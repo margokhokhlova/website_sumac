@@ -46,9 +46,31 @@ with emphasis on the unlocking of and access to the big data of the past.
 analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage,
 with the emphasis on the unlocking of and access to the big data of the past. We welcome research
 contributions related to the following (but not limited to) topics:
-@text30 t30-Category
-@text40 t40-Project Name
-@text50 t50-Category
+@text30 t30-Program committee
+@text40 t40- Program committee
+@text50 t50-
+Nathalie Abadie (IGN, LaSTIG, France)<br>
+Margarita Khokhlova (IGN, LaSTIG, LIRIS, France)<br>
+Mohsen Ardabilian (Ecole Centrale Lyon, France)<br>
+Mathieu Aubry (Ecole des Ponts ParisTech, France)<br>
+Jean-Pierre Chanot (NaverLabs Europe, France)<br>
+Maria Eskevich (CLARIN Office Netherlands)<br>
+Sébastien Giordano (IGN, LaSTIG, France)<br>
+Marijn Koolen (Huygens Institute, The Netherlands)<br>
+Vincent Lepetit (University of Bordeaux, LaBRI, France)<br>
+Clément Mallet (IGN, LaSTIG, France)<br>
+Alexandre Saidi (Ecole Centrale Lyon, France)<br>
+Dimitris Samaras (Stony Brook University, USA)<br>
+Andreas Maier (FAU Erlangen, Germany)<br>
+Fulvio Rinaudo (Politechnico Turino, Italy)<br>
+Ivan Lee (University of South Australia, Australia)<br>
+Martyna Poreba (IGN, LaSTIG, France)<br>
+Lauren Tilton (University of Richmond, USA)<br>
+Giorgos Tolias (Czech Technical University in Prague, Czech Republic)<br>
+Luc Van Gool (ETH Zurich, Switzerland)<br>
+Marcel Worring (University of Amsterdam, The Netherlands)<br>
+Michael Ying Yang (University of Twente, The Netherlands)<br>
+
 @text60 t60-Project Name
 @text70 t70-Category
 @text80 t80-Project Name
@@ -58,18 +80,16 @@ contributions related to the following (but not limited to) topics:
 @text120 t120-Project Name
 @text130 t130-Category
 
-@text21 t21-Project Name
+@text21 t21-Submission
 @text22 t22-Project Name
-@text23 t23-Project Name
+@text23 t23-Please refer to the submission site for submission policies
 @text24 t24-n/a
-@text25 t25-Valerie Gouet-Brunet (PhD’00, Habil’08), research director in the LaSTIG Lab. of IGN (the French mapping agency) since 2012. During period 2014-2017, she was the head of the MATIS research group of the LaSTIG, which is dedicated to computer vision, photogrammetry and remote sensing for terrestrial, aerial and satellite imagery. Her area of research includes content-based indexing of collections of image and video contents at large scale. She has supervised 12 PhD students, 6 postdocs and over 30 master thesis and engineer students. She has been the coordinator of several industrial contracts, participated to 18 European and national research projects, with different levels of responsibility (WP or task leader, institutional contact, principal investigator), some of them being dedicated to the promotion of geographic iconographic heritage, smart cities and land use, respectively in partnership with national museums, 
-SMEs and major French and international groups. She is actively involved in the Time Machine European community (member of the steering committee, contact for IGN); she also leads the French ANR project Alegoria, dedicated to the promotion of iconographic heritage contents describing the French territory. 
+@text25 t25-Valerie Gouet-Brunet (PhD’00, Habil’08), research director in the LaSTIG Lab. of IGN (the French mapping agency).
 
-@text26 t26- Sander Münster (PhD´14) is visiting professor for the Didactics of Computer Science, as well as head of the junior research group HistStadt4D as well as head of the department for Media Design and Production at the Media Center at the Technische Universität Dresden (Germany). He studied history, educational studies and business sciences at the TU Dresden, received his PhD in educational technology and currently works on his postdoc thesis in computing at the University of Regensburg. He serves as co-convenor of the workgroup for Digital Reconstruction of the German Association for Digital Humanities (www.digitale-rekonstruktion.info), is spokesman of the research network on “3D reconstruction methods for architectural history” funded by the German Research Foundation, expert member of ICOMOS/ISPRS CIPA (www.cipa.icomos.org) and head of the workgroup “Partnering with international organisations” in the Virtual Multimodal Museum EU network (www.vi-mm.eu). His research fields are mobile 3D interfaces, user behaviour research, scientometrics as well as research methodologies in fields of digital humanities and heritage. 
+@text26 t26-Sander Münster (PhD´14) is visiting professor for the Didactics of Computer Science, as well as head of the junior research group HistStadt4D as well as head of the department for Media Design and Production at the Media Center at the Technische Universität Dresden (Germany). 
  
-@text27 t27-Roeland Ordelman is specialist information technology with a background in IT research, audiovisual archiving and industry. He is Innovation Manager at Netherlands Institute for Sound and Vision, and principal investigator Language, Speech and Multimedia at University of Twente, the Netherlands. He received his PhD in 2003 on the use of speech recognition technology to improve access to audiovisual archives and worked on a wide range of national and international projects in the area of multimedia retrieval and speech-based human computer/robot interaction. Next to more fundamental research topics such as audiovisual (hyper)linking, topics addressing aspects related to the uptake of access technology in realistic, industrial use cases have his special interest. In that context, he is has been involved in organising benchmark evaluations in the MediaEval Benchmark Evaluation Series and TRECVid. His current work focuses on scholarly research infrastructures to enable mixed media data science using large institutional data sets available at cultural heritage institutes and archives. He is technical coordinator of the CLARIAH Media Suite, one of the portals of the Dutch research infrastructure for the Humanities. 
-@text28 t28- 
-Liming Chen is a Professor in the Department of Mathematics and Computer Science, Ecole Centrale de Lyon, University of Lyon, France. He received his BSc in Mathematics and Computer Science from the University of Nantes in 1984, his MSc and PhD in computer science from the University Pierre and Marie Curie Paris 6 in 1986 and 1989 respectively. He was an associate professor at the Université de Technologie de Compiègne before he joined Ecole Centrale de Lyon as Professor in 1998. He served as the Chief Scientific Officer in the Paris-based company Avivias from 2001 to 2003, and the scientific multimedia expert in France Telecom R&D China in 2005. He was the head of the Department of Mathematics and Computer science from 2007 through 2016. His current research interests include computer vision, machine learning, image and video analysis and categorization, face analysis and recognition, and affective computing. Liming has over 250 publications and successfully supervised over 35 PhD students. He has been a grant holder for a number of research grants from EU FP program, French research funding bodies and local government departments. Liming has so far guest-edited 2 journal special issues. He is an associate editor for Eurasip Journal on Image and Video Processing and a senior IEEE member
+@text27 t27-Roeland Ordelman is specialist information technology with a background in IT research, audiovisual archiving and industry. He is Innovation Manager at Netherlands Institute for Sound and Vision, and principal investigator Language, Speech and Multimedia at University of Twente, the Netherlands.
+@text28 t28-Liming Chen is a Professor in the Department of Mathematics and Computer Science, Ecole Centrale de Lyon, University of Lyon, France.
 
 @text29 t29-Call for papers
 
@@ -83,9 +103,9 @@ Liming Chen is a Professor in the Department of Mathematics and Computer Science
 ● HCI / Interfaces for large scale data sets <br>
 ● Smart digitization of massive quantities of data <br>
 ● Benchmarking 
-@text33 t33-Submission Due: June 25, 2019
-@text34 t34-Acceptance Notification: July 25, 2019
-@text35 t35-Camera Ready Submission: August 15, 2019
+@text33 t33-Submission Due: Monday 08 July 2019
+@text34 t34-Acceptance Notification: Monday 05 August 2019
+@text35 t35-Camera Ready Submission: TBD
 @text36 t36-Category
 @text37 t37-Program
 @text38 t38-About
