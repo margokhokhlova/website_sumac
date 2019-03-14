@@ -1,6 +1,6 @@
 :index
 
-@text0 t0-The digitization of large quantities of analogue data and the massive production of born-digital documents
+@text0 The digitization of large quantities of analogue data and the massive production of born-digital documents
 for many years now provide us with large volumes of varied multimedia data (images, maps, text, video,
 multi-sensor data, etc.), an important feature of which is that they are cross-domain. "Cross-domain"
 reflects the fact that these data may have been acquired in very different conditions: different acquisition
@@ -22,32 +22,32 @@ The objective of this workshop is to present and discuss the latest and most sig
 analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage,
 with emphasis on the unlocking of and access to the big data of the past.
 
-@text1 t1-ACMMULTIMEDIA 2019 21 - 25 October 2019, Nice, France
-@text2 t2- To be published later
+@text1 ACMMULTIMEDIA 2019 <br> 21 - 25 October 2019, Nice, France <br>
+@text2 To be published later
 @text3 t3-Our templates are updated regularly so they don't break.
 @text4 t4-You can use this theme as is, or you can make changes!
 @text5 t5-You have to make your websites with love these days!
-@text6 t6-SUMAC 2019 The 1st workshop on Structuring and Understanding of Multimedia heritAge Contents
+@text6 SUMAC 2019 <br> The 1st workshop on Structuring and Understanding of Multimedia heritAge Contents
 @text7 t7-We update dependencies to keep things fresh.
-@text8 t8-Submission
+@text8 Submission
 @text9 t9-contact@gmail.com
-@text10 t10-Scope and topics of the workshop
+@text10 Scope and topics of the workshop
 @text11 t11-Toggle navigation Menu
-@text12 t12-Program
+@text12 Program
 @text13 t13-Sturdy Templates
-@text14 t14-Workshop Draft Page
-@text15 t15-Organizers
+@text14 Workshop SUMAC 
+@text15 Organizers
 @text16 t16-Made with Love
-@text17 t17-Submit Now
-@text18 t18-About the workshop
+@text17 Submit Now
+@text18 About the workshop
 @text19 t19-Ready to Ship
 
-@text20 t20-The objective of this workshop is to present and discuss the latest and most significant trends in the
+@text20 The objective of this workshop is to present and discuss the latest and most significant trends in the
 analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage,
 with the emphasis on the unlocking of and access to the big data of the past. We welcome research
 contributions related to the following (but not limited to) topics:
-@text30 t30-Program committee
-@text40 t40- Program committee
+@text30 Program committee
+@text40 Program committee
 @text50 t50-
 Nathalie Abadie (IGN, LaSTIG, France)<br>
 Margarita Khokhlova (IGN, LaSTIG, LIRIS, France)<br>
@@ -71,30 +71,30 @@ Luc Van Gool (ETH Zurich, Switzerland)<br>
 Marcel Worring (University of Amsterdam, The Netherlands)<br>
 Michael Ying Yang (University of Twente, The Netherlands)<br>
 
-@text60 t60-Project Name
+@text60 Margarita Khokhlova (IGN, Liris, France)
 @text70 t70-Category
 @text80 t80-Project Name
 @text90 t90-Category
-@text100 t100-Project Name
+@text100 <br>
 @text110 t110-Category
 @text120 t120-Project Name
 @text130 t130-Category
 
-@text21 t21-Submission
+@text21 Submission
 @text22 t22-Project Name
-@text23 t23-Please refer to the submission site for submission policies
-@text24 t24-n/a
-@text25 t25-Valerie Gouet-Brunet (PhD’00, Habil’08), research director in the LaSTIG Lab. of IGN (the French mapping agency).
+@text23 Please refer to the submission site for submission policies <br>
+@text24 n/a
+@text25 Valerie Gouet-Brunet (IGN, France)
 
-@text26 t26-Sander Münster (PhD´14) is visiting professor for the Didactics of Computer Science, as well as head of the junior research group HistStadt4D as well as head of the department for Media Design and Production at the Media Center at the Technische Universität Dresden (Germany). 
+@text26 Sander Münster (Technische Universität Dresden, Germany) 
  
-@text27 t27-Roeland Ordelman is specialist information technology with a background in IT research, audiovisual archiving and industry. He is Innovation Manager at Netherlands Institute for Sound and Vision, and principal investigator Language, Speech and Multimedia at University of Twente, the Netherlands.
-@text28 t28-Liming Chen is a Professor in the Department of Mathematics and Computer Science, Ecole Centrale de Lyon, University of Lyon, France.
+@text27 Roeland Ordelman (University of Twente, the Netherlands)
+@text28 Liming Chen (Liris, University of Lyon, France)
 
-@text29 t29-Call for papers
+@text29 Call for papers
 
-@text31 t31-Organizers
-@text32 t32-●Multimedia and cross-domain data interlinking and recommendation <br>
+@text31 Organizers
+@text32 ●Multimedia and cross-domain data interlinking and recommendation <br>
 ● Dating and geolocalization of historical data <br>
 ● Mixed media data access and indexing <br>
 ● Deep learning in adverse conditions (transfer learning, learning with side information, etc.) <br>
@@ -103,10 +103,10 @@ Michael Ying Yang (University of Twente, The Netherlands)<br>
 ● HCI / Interfaces for large scale data sets <br>
 ● Smart digitization of massive quantities of data <br>
 ● Benchmarking 
-@text33 t33-Submission Due: Monday 08 July 2019
-@text34 t34-Acceptance Notification: Monday 05 August 2019
-@text35 t35-Camera Ready Submission: TBD
+@text33 Submission Due: Monday 08 July 2019
+@text34 Acceptance Notification: Monday 05 August 2019
+@text35 Camera Ready Submission: TBD
 @text36 t36-Category
-@text37 t37-Program
-@text38 t38-About
-@text39 t39-
+@text37 Program
+@text38 About
+@text39 <br>
